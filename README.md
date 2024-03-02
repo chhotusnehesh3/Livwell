@@ -1,4 +1,4 @@
-![image](https://github.com/chhotusnehesh3/Livwell/assets/101246546/8c4cf6f6-2e89-4712-b82d-c8fffe0b0ebb)****Introduction****
+****Introduction****
 
 Livwell(Dorm Discoverer) is a dynamic and user-friendly room rental website that simplifies the process of finding and booking ideal living spaces for students and young professionals. Built with a blend of HTML, CSS, JavaScript, React.js, and Bootstrap, this platform offers a seamless and visually appealing experience.
 
