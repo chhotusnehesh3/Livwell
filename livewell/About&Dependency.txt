@@ -1,0 +1,1 @@
+npm i mdb-react-ui-kit  //for mdb bootstarp in footer

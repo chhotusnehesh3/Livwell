@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  
+    monospace;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  
+    monospace;
+}
+
+#footer{
+  background-image: url("../public/images1/bg.jpg") !important;
+  background-size: cover;
+}
+
+#ContainerH1{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+#imgG1{
+  margin-left: 80px;
+  border-radius: 10px;
+}
+
+
+
+#container1{
+ 
+  text-align: center;
+}
+
+#bell{
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+#sub{
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#btn1{
+  margin-top: 15px;
+}
+#faq{
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#accord{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}
+
+#cards{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+  
+}
+
+#btnShow{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  /* margin-left: 40%; */
+}
+
+#btnSV{
+  margin-right: 5px;
+}
+
+#couple{
+  padding-bottom: 300px;
+  font-size: 70px;
+}
+
+strong{
+  color: #ED45A0;
+}
+
+#Live{
+  padding-top: 60px;
+  padding-left: 50px;
+  text-align: left;
+}
+
+
+
+#naruto{
+  height: 500px;
+  width: 500px;
+}
+#naruto1{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#Design{
+  padding-top: 70px;
+  padding-right: 50px;
+  padding-left: 100px;
+  text-align: left;
+}
+#Designed{
+  font-size: 50px;
+  padding-bottom: 40px;
+}
+
+#Offer{
+  text-align: left;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+.Offer1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+
+.Offerh1{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.filter1{
+  margin-top: 60px;
+}
